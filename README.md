@@ -6,3 +6,6 @@ Abr
 TopT
 Zuhar
 Sadd
+## Goal
+To win 
+## Design
