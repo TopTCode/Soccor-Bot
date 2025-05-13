@@ -1,6 +1,6 @@
 # Soccer-Bot
 ## Overview 
-A team named Pikiblinders is going to participate in a contest  
+A team named Pikiblinders is going to participate in a Soccer Bot contest for Freshers.  
 ## Team Members
 Abr
 TopT
