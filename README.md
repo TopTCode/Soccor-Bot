@@ -7,7 +7,7 @@ TopT
 Zuhar
 Sadd
 ## Goal
-To win 
+To learn. Winning is just the byproduct. 
 ## Design
 ![image](https://github.com/user-attachments/assets/9c744bae-8bdc-4411-bc3a-69ffc8a2f86a)
 
